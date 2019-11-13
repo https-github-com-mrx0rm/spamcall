@@ -2,7 +2,7 @@
     UOUOUO ANDIKA
 
 
-UPDATE 09-April-2019
+langkah-langkah menjalankan.
 <b><li>Spam Call Unlimited</b>
 <li>$ pkg update && pkg upgrade
 <li>$ pkg install php
